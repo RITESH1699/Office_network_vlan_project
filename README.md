@@ -42,31 +42,35 @@ Server: 192.168.20.10 | SW1 management: 192.168.20.2
 ## Screenshots
 
 
-![VLANs](<img width="655" height="245" alt="show vlan brief" src="https://github.com/user-attachments/assets/de9d0a36-8330-400a-8d35-18d554f0385a" />
+![VLANs](<img width="655" height="245" alt="show vlan brief" src="https://github.com/user-attachments/assets/3a3157e1-7b20-4b47-8d2e-be06530a043f" />
+
 )
 
 
 
 
-![Ping success](<img width="485" height="535" alt="SALES-PC-PING TO IT-PC " src="https://github.com/user-attachments/assets/094a297a-2ab8-402d-87c7-549aa6734287" />
+![Ping success](<img width="485" height="535" alt="SALES-PC-PING TO IT-PC " src="https://github.com/user-attachments/assets/e4ed1a76-d9dc-40d6-b2d4-f8b54625dab6" />
+
 )
 
 
 
 
-![Guest blocked](<img width="475" height="382" alt="PING-GUEST-FAIL" src="https://github.com/user-attachments/assets/c2849d6d-35d3-4ce7-8956-166616b00037" />
+![Guest blocked](<img width="475" height="382" alt="PING-GUEST-FAIL" src="https://github.com/user-attachments/assets/4f373ee5-2459-4f4b-9987-ab5aeda9dc00" />
 )
 
 
 
 
-![ACL](<img width="597" height="72" alt="ACL" src="https://github.com/user-attachments/assets/40fe579c-d34d-4213-8574-fd872b36d0b6" />
+![ACL](<img width="597" height="72" alt="ACL" src="https://github.com/user-attachments/assets/1da4fc2d-6f9d-434b-b64d-3657ae2e73cb" />
+
 )
 
 
 
 
-![SSH](<img width="650" height="252" alt="SSH-LOGIN" src="https://github.com/user-attachments/assets/8305ca78-abe3-4126-9c26-299e29d0530e" />
+![SSH](<img width="650" height="252" alt="SSH-LOGIN" src="https://github.com/user-attachments/assets/3f983d9d-ff25-4f43-af98-9cf6de8ee54a" />
+
 )
 
 
