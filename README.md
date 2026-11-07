@@ -6,7 +6,8 @@ ACL-based guest isolation, SSH and port security.
 ## Topology
 
 
-![Topology](<img width="881" height="632" alt="OFFICE TOPOLOGY" src="https://github.com/user-attachments/assets/324443fc-4786-40e5-b250-af92922a303d" />
+![Topology](<img width="881" height="632" alt="OFFICE TOPOLOGY" src="https://github.com/user-attachments/assets/29012676-9921-4e74-9d61-0b831992b7fe" />
+
 )
 
 
