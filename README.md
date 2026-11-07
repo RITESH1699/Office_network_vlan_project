@@ -57,7 +57,7 @@ Server: 192.168.20.10 | SW1 management: 192.168.20.2
 
 
 
-![Guest blocked](<img width="475" height="382" alt="PING-GUEST-FAIL" src="https://github.com/user-attachments/assets/4f373ee5-2459-4f4b-9987-ab5aeda9dc00" />
+![Guest blocked] (<img width="475" height="382" alt="PING-GUEST-FAIL" src="https://github.com/user-attachments/assets/4f373ee5-2459-4f4b-9987-ab5aeda9dc00" />
 )
 
 
